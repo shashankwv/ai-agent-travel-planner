@@ -1,0 +1,11 @@
+# Isolate Python dependency environments
+trip-planner-env/
+__pycache__/
+*.pyc
+
+# Isolate local data state layers (optional, if you want clear feedback history per machine)
+# data/feedback.jsonl
+
+# OS specific system files
+.DS_Store
+Thumbs.db
